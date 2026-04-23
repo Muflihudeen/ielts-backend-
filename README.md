@@ -1,4 +1,4 @@
-# IELTS Essay Backend API 🚀
+# IELTS Essay Backend API 
 
 This is a Flask backend for an IELTS essay practice website.
 
